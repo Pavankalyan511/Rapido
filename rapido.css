@@ -1,0 +1,35 @@
+.downloadapp{
+    border-radius:30px 30px 0px 30px;
+}
+#underline{
+    width:60px;
+    height:4px;
+    background-color:black;
+}
+.sec1heading{
+    font-size:60px;
+}
+.sec1para{
+    font-size: 30;
+}
+.sec2 img{
+    width:100%;
+}
+.sec3 img{
+    border-radius: 30px 30px 0px 30px;
+    background-color:grey;
+}
+.sec4{
+    background-color: #1e4b82;
+}
+.sec4 h1{
+    font-size: 50px;
+}
+.sec4 p{
+    font-size: 30px; 
+    width:450px;
+}
+.sec4 button{
+    font-size:25px;
+    border-radius:30px;
+}
