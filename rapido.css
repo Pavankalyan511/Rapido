@@ -33,3 +33,30 @@
     font-size:25px;
     border-radius:30px;
 }
+.insta{
+    color:white;
+}
+
+.icon{
+    height:40px;
+    width: 40PX;
+}
+.fotter{
+    background-color: black;
+    padding: 50px 50px 20px 120px;
+.play-store{
+    margin: 10px;
+}
+}
+.footer-bottom{
+    font-size:40px;
+}
+/*
+.social-icons{
+    background-color: white;
+}*/
+
+.line{
+    height: 5px;
+    background-color: #FFC914;
+}
